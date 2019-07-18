@@ -1,0 +1,6 @@
+.Tilt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(0deg, rgba(83,157,66,1) 0%, rgba(191,223,99,1) 49%, rgba(224,255,147,0.840795693277311) 100%);
+}
