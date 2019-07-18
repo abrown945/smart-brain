@@ -8,11 +8,11 @@ import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
 
 const particlesOptions = {
     particles: {
-      line_linked: {
-        shadow: {
+      number: {
+        value: 50,
+        density: {
           enable: true,
-            color: "white",
-              blur: 5
+          value_area: 800
         }
       }
     }
