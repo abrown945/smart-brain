@@ -1,11 +1,14 @@
-html,body {
+html, body {
   height: 100%;
 }
+
 
 body {
   font-family: "Courier New", 'Courier New', Courier, monospace;
   background: rgb(83,157,66);
   background: linear-gradient(0deg, rgba(83,157,66,1) 0%, rgba(228,232,132,1) 100%);
   background-repeat: no-repeat;
+  margin: 0;
+  background-attachment: fixed;
 }
 
