@@ -1,0 +1,9 @@
+.image-holder {
+    position: absolute;
+    margin-top: 2rem;
+}
+
+.image-holder > img {
+    width: 300px;
+    height: auto;
+}
